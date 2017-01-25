@@ -1,0 +1,26 @@
+{
+  "name": "remotr-service",
+  "version": "0.2.5",
+  "description": "A basic service app using Express 4",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.13.3",
+    "pg": "4.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/remotr/remotr-service.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
